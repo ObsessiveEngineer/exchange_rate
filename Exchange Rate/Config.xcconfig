@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  Exchange Rate
+//
+//  Created by Trakya18 on 12.05.2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+API_KEY = fca_live_MvNjsKmFZqTk5FOqYVFE028N7OjLfW6ScPHnqlZW

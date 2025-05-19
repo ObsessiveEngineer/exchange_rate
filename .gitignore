@@ -1,0 +1,51 @@
+# macOS system files
+.DS_Store
+.Trashes
+
+# Xcode project files
+xcuserdata/
+*.xcworkspace
+*.xccheckout
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+project.xcworkspace
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Simulator files
+*.simruntime
+
+# Logs
+*.log
+*.xcresult
+
+# Temporary and backup files
+*.tmp
+*.swp
+*~.nib
+*.bak
+
